@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="schospital">
+        <item>请选择医院</item>
+    </string-array>
+
+    <string-array name="scadministrative">
+        <item>请选择科室</item>
+    </string-array>
+
+    <string-array name="scoutpatient">
+        <item>请选择门诊</item>
+    </string-array>
+</resources>

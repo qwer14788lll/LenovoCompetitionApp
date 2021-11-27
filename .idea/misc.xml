@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/drawable/bg_border.xml" value="0.18055555555555555" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/drawable/bg_btn.xml" value="0.18425925925925926" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/drawable/bg_login_btn.xml" value="0.27708333333333335" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/drawable/bg_search.xml" value="0.1675925925925926" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/drawable/boder.xml" value="0.15555555555555556" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.22314814814814815" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/drawable/ic_baseline_fingerprint_24.xml" value="0.21296296296296297" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1675925925925926" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.1675925925925926" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/drawable/ic_doctor_icon.xml" value="0.11018518518518519" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/drawable/ic_ia_2.xml" value="0.27708333333333335" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/drawable/spinner_border.xml" value="0.18055555555555555" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/activity_index.xml" value="0.165" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/activity_login.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/activity_scdoctor.xml" value="0.22282608695652173" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/activity_schospital.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/activity_test.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/fragment_creative.xml" value="0.15572916666666667" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/fragment_dashboard.xml" value="0.12512664640324214" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/fragment_home.xml" value="0.335" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/fragment_my.xml" value="0.12512664640324214" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/fragment_notifications.xml" value="0.12512664640324214" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/scdoctor_item.xml" value="0.335" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/schospital_item.xml" value="0.22282608695652173" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/schospital_title.xml" value="0.25" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/scvisit_item.xml" value="0.335" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/scvisit_title.xml" value="0.19791666666666666" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/spinner_style.xml" value="0.335" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/layout/title.xml" value="0.335" />
+        <entry key="..\:/AndroidStudioProjects/LenovoCompetitionApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.13796296296296295" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
